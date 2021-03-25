@@ -1,6 +1,6 @@
 {
-    "name": "anik/amqp",
-    "description": "php-amqplib wrapper that eases the consumption of RabbitMQ. A painless way of using RabbitMQ",
+    "name": "tdhostinger/amqp",
+    "description": "Forked for personal use. php-amqplib wrapper that eases the consumption of RabbitMQ. A painless way of using RabbitMQ",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.0",
-        "php-amqplib/php-amqplib": "^2.9 !=2.12.0",
+        "php-amqplib/php-amqplib": "3.0.0",
         "illuminate/container": "^5.8|^6.0|^7.0|^8.0",
         "illuminate/pipeline": "^5.8|^6.0|^7.0|^8.0",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0",
